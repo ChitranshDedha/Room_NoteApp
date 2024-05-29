@@ -1,0 +1,10 @@
+#Fri May 03 23:17:29 IST 2024
+base.0=/home/cdg/game/Room_Databese_tutorail-main/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/home/cdg/game/Room_Databese_tutorail-main/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.2=/home/cdg/game/Room_Databese_tutorail-main/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/15/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=15/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
